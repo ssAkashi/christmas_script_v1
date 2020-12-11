@@ -6,6 +6,8 @@ My discord for the script : https://discord.gg/w5z4hTfxPN <br>
 My discord for the script : https://discord.gg/w5z4hTfxPN <br>
 My discord for the script : https://discord.gg/w5z4hTfxPN <br>
 
+ensure Akashi_GreedNoel in your server.cfg !
+
 <h2> 🌐 French </h2>
 
 - 💻 Script Gratuit, Open Source que je release pour Noël :) ! Le menu est en RageUI.
