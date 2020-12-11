@@ -2,9 +2,9 @@
 
 Preview Script : https://streamable.com/qu8uah <br>
 
-My discord for the script : https://discord.gg/w5z4hTfxPN
-My discord for the script : https://discord.gg/w5z4hTfxPN
-My discord for the script : https://discord.gg/w5z4hTfxPN
+My discord for the script : https://discord.gg/w5z4hTfxPN <br>
+My discord for the script : https://discord.gg/w5z4hTfxPN <br>
+My discord for the script : https://discord.gg/w5z4hTfxPN <br>
 
 <h2> 🌐 French </h2>
 
