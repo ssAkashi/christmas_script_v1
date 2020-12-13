@@ -32,7 +32,7 @@ function CalendrierGreed()
 end
 
 function VehicleNoel()
-    local model = GetHashKey('snowbike')
+    local model = GetHashKey('bf400')
         RequestModel(model)
         while not HasModelLoaded(model) do Citizen.Wait(10) end
         local posVeh = GetEntityCoords(PlayerPedId())
